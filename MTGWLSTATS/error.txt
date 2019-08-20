@@ -1,0 +1,2 @@
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	C2280	'std::basic_ifstream<char,std::char_traits<char>>::basic_ifstream(const std::basic_ifstream<char,std::char_traits<char>> &)': attempting to reference a deleted function	MTGWLSTATS	c:\users\bryan\desktop\laptop school work\programming interview questions\mtgwlstats\mtgwlstats\main.cpp	17	
