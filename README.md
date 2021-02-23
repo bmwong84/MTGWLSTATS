@@ -10,3 +10,4 @@ To use this tool:
 6.  Run the program (needs C++ compiler and capabilities) and enter the appropriate textfile name when prompted.
 
 Future work: I hope to incorporate this into a simple website where you can just paste your record.
+No longer relevant because wizards discontinued their planeswalker points history :(
